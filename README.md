@@ -1,2 +1,2 @@
 # spektrum
-Spektrum samples of sound.
+Spectrum samples of sound.
